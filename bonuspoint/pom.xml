@@ -216,7 +216,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            <plugin>
+           <!-- <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.5.1</version>
                 <configuration>
@@ -225,7 +225,7 @@
                         D:\Program Files\Java\jdk1.8.0_191\bin\javac.exe
                     </executable>
                 </configuration>
-            </plugin>
+            </plugin>-->
 
 
         </plugins>

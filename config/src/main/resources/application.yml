@@ -15,7 +15,7 @@ spring:
       server:
         git:
           # git仓库位置
-          uri: https://github.com/lkm12/bonus-confi.git
+          uri: https://github.com/lkm12/bonjenkins
           # 仓库路径下的相对搜索位置
           search-paths: /**
           # git仓库的用户名

@@ -28,7 +28,7 @@ eureka:
     #ip-address: 192.168.33.121
     #演示环境
     #ip-address: 172.16.100.65
-    ip-address: localhost
+    ip-address: 192.168.242.128
   client:
     service-url:
       #开发环境

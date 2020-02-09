@@ -43,6 +43,6 @@ eureka:
       #开发环境
       #defaultZone: http://admin:123456@${eureka.host:192.168.33.121}:${eureka.port:1111}/eureka/
       #演示服务器
-      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@${eureka.host:eureka.instance.ip-address}:${eureka.port:1111}/eureka/
+      defaultZone: http://${spring.security.user.name}:${spring.security.user.password}@${eureka.host:192.168.242.128}:${eureka.port:1111}/eureka/
       #生产环境
       #defaultZone: http://admin:123456@${eureka.host:47.98.32.123}:${eureka.port:1111}/eureka/
